@@ -2,7 +2,7 @@ CROSS_HOST="i686-w64-mingw32"
 inherit cross
 
 NAME="mingw64-i686-libwpd0.10"
-VERSION=0.10.0
+VERSION=0.10.1
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="WordPerfect document library for Win32 toolchain"
